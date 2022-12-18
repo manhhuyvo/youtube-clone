@@ -20,5 +20,5 @@ B. How it works
 - Videos and Channels details are fetched from Rapid API Youtube -v3 (https://rapidapi.com/ytdlfree/api/youtube-v31?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel)
 
 # Live demo of the app
-Perhaps please just click here for the live page of the app :) https://gorgeous-cascaron-723a9a.netlify.app/
+Perhaps please just click here for the live page of the app :) https://manhhuyvo-youtube.netlify.app/
 Thank you!
