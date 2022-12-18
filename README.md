@@ -18,3 +18,7 @@ A. Features
 B. How it works
 - The whole project is built from React components (using Material UI)
 - Videos and Channels details are fetched from Rapid API Youtube -v3 (https://rapidapi.com/ytdlfree/api/youtube-v31?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel)
+
+# Live demo of the app
+Perhaps please just click here for the live page of the app :) https://gorgeous-cascaron-723a9a.netlify.app/
+Thank you!
